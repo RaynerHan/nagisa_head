@@ -45,4 +45,4 @@ jobs:
 
       - name: Set primary subdomain
         run: |
-          echo "nagisa_head.html" > CNAME
+          echo "index.html" > CNAME
